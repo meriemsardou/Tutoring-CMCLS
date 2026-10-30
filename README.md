@@ -1,4 +1,4 @@
-# Computational Methods for Comparative Literary Studies
+# Computational Methods for Comparative Literary Studies (CMCLS)
 
 This repository contains Python notebooks, code, and materials for the  CMCLS tutoring course at the University of Verona. 
 
